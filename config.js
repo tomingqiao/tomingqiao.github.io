@@ -59,7 +59,7 @@ const config = {
     }, 
 
     httpServer: {
-        host: '127.0.0.1',
+        host: 'tomingqiao.github.io',
         port: 1145
     },
 
