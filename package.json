@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node core/api/app",
-    "build": "node core/api/app"
+    "start": "node core/api/app"
   },
   "author": "Dituon",
   "license": "MIT",
